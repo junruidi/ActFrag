@@ -21,8 +21,7 @@ Imports:
     dplyr,
     ineq,
     survival,
-    stats,
-    tidyr
+    stats
 Depends:
     R (>= 3.5.0),
 Suggests:
