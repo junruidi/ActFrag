@@ -1,6 +1,6 @@
 # ActFrag
 
- [![Travis-CI Build Status](https://travis-ci.org/junruidi/ActFrag.svg?branch=master)](https://travis-ci.org/junruidi/ActFrag)
+ [![Travis-CI Build Status](https://travis-ci.org/junruidi/ActFrag.svg?branch=master)](https://app.travis-ci.com/junruidi/ActFrag)
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/junruidi/ActFrag?branch=master&svg=true)](https://ci.appveyor.com/project/junruidi/ActFrag)
 [![](https://cranlogs.r-pkg.org/badges/grand-total/ActFrag)](https://CRAN.R-project.org/package=ActFrag)
 
